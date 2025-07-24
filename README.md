@@ -10,10 +10,6 @@ This is a simple and responsive web-based quiz application built using **HTML**,
 - Final score display after quiz completion
 - Responsive and minimal UI
 
-## 🚀 Demo
-
-![Quiz UI Screenshot](screenshot.png) <!-- Replace or remove if you don't have one -->
-
 ## 📁 Project Structure
 
 /project-root
